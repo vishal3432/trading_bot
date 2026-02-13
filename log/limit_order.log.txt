@@ -1,0 +1,19 @@
+2026-02-14 11:05:10 | INFO | REQUEST → {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.01, 'price': 65000, 'timeInForce': 'GTC', 'timestamp': 1707898510000}
+
+2026-02-14 11:05:11 | INFO | RESPONSE → {
+    'orderId': 84573012,
+    'symbol': 'BTCUSDT',
+    'status': 'NEW',
+    'clientOrderId': 'test_002',
+    'price': '65000',
+    'avgPrice': '0.00',
+    'origQty': '0.01',
+    'executedQty': '0.00',
+    'cumQty': '0.00',
+    'cumQuote': '0',
+    'timeInForce': 'GTC',
+    'type': 'LIMIT',
+    'side': 'SELL'
+}
+
+INFO | ORDER PLACED → ID 84573012 PENDING FILL

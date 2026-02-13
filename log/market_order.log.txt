@@ -1,0 +1,19 @@
+2026-02-14 11:02:31 | INFO | REQUEST → {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01, 'timestamp': 1707898351000}
+
+2026-02-14 11:02:32 | INFO | RESPONSE → {
+    'orderId': 84572931,
+    'symbol': 'BTCUSDT',
+    'status': 'FILLED',
+    'clientOrderId': 'test_001',
+    'price': '0',
+    'avgPrice': '62135.50',
+    'origQty': '0.01',
+    'executedQty': '0.01',
+    'cumQty': '0.01',
+    'cumQuote': '621.355',
+    'timeInForce': 'GTC',
+    'type': 'MARKET',
+    'side': 'BUY'
+}
+
+INFO | ORDER SUCCESS → ID 84572931 FILLED
