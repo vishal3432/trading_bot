@@ -7,8 +7,8 @@ pip install -r requirements.txt
 
 Create .env file
 ```
-API_KEY=your_key
-API_SECRET=your_secret
+API_KEY
+API_SECRET
 ```
 
 ## Run
@@ -31,3 +31,5 @@ python cli.py --symbol BTCUSDT --side SELL --type LIMIT --quantity 0.01 --price 
 - Error handling
 
 Log file → bot.log
+
+## This is how you can make a trading bot 
